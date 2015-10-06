@@ -40,5 +40,5 @@ and then choose **JUnit**. Next to **JUnit Pattern**, enter
 `phpunit.xml`.
 
 ![](https://s3.amazonaws.com/devops-bootcamp/img/build-02.png)
-
+This is a change by Shawn
 Click **Save**.
